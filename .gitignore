@@ -1,0 +1,11 @@
+# Ignore simulation and synthesis outputs
+*.out
+*.vcd
+*.log
+*.jou
+*.wdb
+*.pb
+*.xpr
+*.data/
+*.sim/
+*.runs/
